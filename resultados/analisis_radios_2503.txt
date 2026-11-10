@@ -1,0 +1,32 @@
+Archivo                  : referencia.obj
+Triangulos               : 4968
+Vertices usados          : 2503 / 2503
+Aristas                  : 7473
+Aristas de borde (1 tri) : 42
+Aristas con 2 triangulos : 7431
+Aristas con >2 triangulos: 0
+
+Archivo                  : bpa_0.005.obj
+Triangulos               : 6271
+Vertices usados          : 2491 / 2503
+Aristas                  : 8296
+Aristas de borde (1 tri) : 130
+Aristas con 2 triangulos : 6163
+Aristas con >2 triangulos: 2003
+
+Archivo                  : bpa_0.007.obj
+Triangulos               : 6564
+Vertices usados          : 2490 / 2503
+Aristas                  : 8619
+Aristas de borde (1 tri) : 27
+Aristas con 2 triangulos : 6549
+Aristas con >2 triangulos: 2043
+
+Archivo                  : bpa_0.010.obj
+Triangulos               : 6476
+Vertices usados          : 2441 / 2503
+Aristas                  : 8559
+Aristas de borde (1 tri) : 5
+Aristas con 2 triangulos : 6747
+Aristas con >2 triangulos: 1807
+

@@ -1,0 +1,13 @@
+Version             : CPU con precalculo
+Archivo             : Stanford_Bunny_50000.xyz
+Puntos              : 50000
+Radio               : 0.007
+Modo                : multi-semilla
+Pares vecinos       : 14922921
+Regiones            : 4000
+Puntos cubiertos    : 42741 / 50000
+Triangulos          : 61375
+Tiempo vecindad     :     2266.0 ms
+Tiempo precalculo   :     2591.4 ms
+Tiempo pivoteo      :     8651.0 ms
+Tiempo total        :    13508.4 ms

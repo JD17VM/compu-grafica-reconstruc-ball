@@ -1,0 +1,14 @@
+GPU                 : NVIDIA GeForce RTX 3050 6GB Laptop GPU
+Version             : GPU (CUDA)
+Archivo             : Stanford_Bunny_50000.xyz
+Puntos              : 50000
+Radio               : 0.007
+Modo                : multi-semilla
+Pares vecinos       : 14922921
+Regiones            : 4000
+Puntos cubiertos    : 42741 / 50000
+Triangulos          : 61375
+Tiempo vecindad     :      106.9 ms
+Tiempo precalculo   :      312.7 ms
+Tiempo pivoteo      :     8507.7 ms
+Tiempo total        :     8927.3 ms

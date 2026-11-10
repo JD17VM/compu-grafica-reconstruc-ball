@@ -1,0 +1,13 @@
+Version             : CPU original
+Archivo             : Stanford_Bunny_20000.xyz
+Puntos              : 20000
+Radio               : 0.007
+Modo                : multi-semilla
+Pares vecinos       : 2382156
+Regiones            : 189
+Puntos cubiertos    : 19217 / 20000
+Triangulos          : 40801
+Tiempo vecindad     :      358.1 ms
+Tiempo precalculo   :        0.0 ms
+Tiempo pivoteo      :    10497.8 ms
+Tiempo total        :    10855.9 ms

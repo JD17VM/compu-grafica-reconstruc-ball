@@ -1,0 +1,1 @@
+﻿CPU original con 50000 puntos: interrumpida manualmente tras 8 min 4 s (478 s de CPU) sin terminar.
